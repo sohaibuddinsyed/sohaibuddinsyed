@@ -1,4 +1,7 @@
 ### Welcome to my Github page.
+I am Sohaib Uddin Syed, a passionate Computer Science student and Software Engineer.
+
+If you want to connect, reach out to me via email on syedsohaib074@gmail.com or via LinkedIn [sohaibuddinsyed](https://www.linkedin.com/in/sohaibuddinsyed/).
 
 <!--
 **sohaibuddinsyed/sohaibuddinsyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
