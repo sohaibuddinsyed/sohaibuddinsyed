@@ -1,5 +1,5 @@
 ### ✨ Welcome to my Github page ✨
-I am Sohaib Uddin Syed, a graduate Computer Science student at the University of Florida and a Software Engineer.
+I am Sohaib, a Software Engineer at AWS
 
 If you want to connect, reach out to me via email on syedsohaib074@gmail.com or via LinkedIn [sohaibuddinsyed](https://www.linkedin.com/in/sohaibuddinsyed/).
 
